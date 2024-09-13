@@ -13,27 +13,21 @@ Bibliotecas: Se requieren las siguientes bibliotecas Python:
     csv (para guardar datos en formato CSV)
 
 Puedes instalar la biblioteca zeep utilizando pip:
-
-    ```sh
-        pip install zeep
-    ```
-
+```sh
+    pip install zeep
+```
 ## Instalación
 Clona este repositorio en tu máquina local:
-
-    ```sh
-        git clone https://github.com/tu_usuario/tu_repositorio.git
-    ```
-
+```sh
+    git clone https://github.com/tu_usuario/tu_repositorio.git
+```
 # Uso
 Edita el rango de años en el script según tus necesidades. Busca las siguientes líneas:
-
-    ```
-        # Definir el rango de años
-        start_year = 2022
-        end_year = 2023
-    ```
-
+```py
+    # Definir el rango de años
+    start_year = 2022
+    end_year = 2023
+```
 ## Ejemplo de Salida
 Al ejecutar el script, se generarán tres archivos en el directorio actual:
 
